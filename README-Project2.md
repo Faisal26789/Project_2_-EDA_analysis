@@ -80,4 +80,4 @@ python eda_analysis.py
 ```
 
 ## Author
-Deepanshu — Data Analytics Intern Project 2
+Md. faisal Siddiqui — Data Analytics Intern Project 2
